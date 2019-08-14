@@ -1,0 +1,8 @@
+{
+  "name": "TEClassAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/binarycodebr/TEClassAPI.git",
+  "author": "tiagohintz <tiagohintz@gmail.com>",
+  "license": "MIT"
+}
